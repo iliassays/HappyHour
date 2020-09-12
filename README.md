@@ -1,2 +1,2 @@
-# starrider
-A voyager app to relates customer with business through loyalty.;
+# Happy Eating
+A food app to relates customer with business.;
