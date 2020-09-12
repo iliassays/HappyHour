@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{AB33F52C-342B-41BC-9399-04DA4052BBB9}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunctionApps.ServerlessMicroservices.FunctionsApp.HappyEating PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEvents/CampaignOrderRejectedEvent.cs">
+    <Files>
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/Domain/Campaign.cs" Line="50" Column="32" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Infrastructure/Settings.cs" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Infrastructure/Constants.cs" Line="13" Column="40" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEvents/CampaignOrderRejectedEvent.cs" Line="14" Column="1" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEvents/CampaignOrderAcceptedEvent.cs" Line="11" Column="47" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEventHandlers/EVGH_OrderCreatedEventExternalization2Campaign.cs" Line="87" Column="10" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEvents/OrderCreatedEvent.cs" Line="7" Column="9" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/Functions/GetRunningCampaingByOrganizationFunction.cs" Line="53" Column="14" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/Commands/SaveCampaignCommand.cs" Line="26" Column="1" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/Functions/SaveCampaignFunction.cs" Line="95" Column="57" />
+      <File FileName="ServerlessMicroservices.FunctionsApp.Voyages/Functions/Campaign/IntegrationEvents/CampaignUpdatedEvent.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="happy-hour" expanded="True">
+            <Node name="FunctionApps" expanded="True">
+              <Node name="ServerlessMicroservices.FunctionsApp.Voyages" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Functions" expanded="True">
+                  <Node name="Campaign" expanded="True">
+                    <Node name="Commands" expanded="True" />
+                    <Node name="Domain" expanded="True" />
+                    <Node name="Functions" expanded="True" />
+                    <Node name="IntegrationEventHandlers" expanded="True" />
+                    <Node name="IntegrationEvents" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Infrastructure" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
