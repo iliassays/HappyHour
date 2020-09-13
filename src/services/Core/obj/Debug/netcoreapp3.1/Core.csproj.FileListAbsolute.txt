@@ -1,0 +1,9 @@
+/Users/ihossain/Development/happy-hour/src/services/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/ihossain/Development/happy-hour/src/services/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/ihossain/Development/happy-hour/src/services/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.pdb
+/Users/ihossain/Development/happy-hour/src/services/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache

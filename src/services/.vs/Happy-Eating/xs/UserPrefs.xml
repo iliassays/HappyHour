@@ -1,31 +1,41 @@
-﻿<Properties StartupConfiguration="{5920DB1C-D3DD-47AB-918B-8D3E61F03D4D}|Default">
-  <MonoDevelop.Ide.ItemProperties.FunctionApps.ServerlessMicroservices.FunctionsApp.HappyEating PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ServerlessMicroservices.FunctionsApp.HappyHour/local.settings.json">
+﻿<Properties StartupConfiguration="{C9EE3BC8-B968-418F-BB26-DE54927FC0D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog/Catalog.cs">
     <Files>
-      <File FileName="../../../../../../usr/local/share/dotnet/sdk/3.1.402/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="241" Column="5" />
-      <File FileName="ServerlessMicroservices.FunctionsApp.HappyHour/local.settings.json" Line="1" Column="1" />
+      <File FileName="Core/Infrastructure/HttpHelper.cs" Line="9" Column="27" />
+      <File FileName="Campaign/Functions/SaveCampaignFunction.cs" Line="102" Column="43" />
+      <File FileName="Core/Infrastructure/EventPublisher.cs" Line="1" Column="11" />
+      <File FileName="Campaign/IntegrationEventHandlers/EVGH_OrderCreatedEventExternalization2Campaign.cs" Line="87" Column="10" />
+      <File FileName="../../../../../../Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="1870" Column="5" />
+      <File FileName="Campaign/IntegrationEvents/CampaignOrderAcceptedEvent.cs" Line="1" Column="31" />
+      <File FileName="Campaign/IntegrationEvents/CampaignOrderRejectedEvent.cs" Line="1" Column="1" />
+      <File FileName="Campaign/IntegrationEvents/OrderCreatedEvent.cs" Line="19" Column="1" />
+      <File FileName="Campaign/IntegrationEvents/CampaignUpdatedEvent.cs" Line="1" Column="1" />
+      <File FileName="Order/Order.cs" Line="1" Column="1" />
+      <File FileName="Catalog/Catalog.cs" Line="28" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Happy-Eating" expanded="True">
             <Node name="FunctionApps" expanded="True">
-              <Node name="ServerlessMicroservices.FunctionsApp.HappyEating" expanded="True">
-                <Node name="local.settings.json" selected="True" />
-              </Node>
+              <Node name="Catalog" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FunctionApps.Order FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FunctionApps.Campaign PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>ServerlessMicroservices.FunctionsApp.Voyages/ServerlessMicroservices.FunctionsApp.HappyEating.csproj</String>
+    <String>Campaign/Campaign/Campaign.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FunctionApps.Catalog FirstBuild="True" />
 </Properties>

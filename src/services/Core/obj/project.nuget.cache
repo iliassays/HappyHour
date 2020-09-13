@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXzz4LpN+UzZ/Zp7MIWIK2Z5PxXrHVxEmrTcHL/OdFfPvgLi5WXH8uzRsKR/qWMu5NSmr/LxyhTbOqLcnr6J+Q==",
+  "success": true,
+  "projectFilePath": "/Users/ihossain/Development/happy-hour/src/services/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/ihossain/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

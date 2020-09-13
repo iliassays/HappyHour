@@ -25,11 +25,8 @@
     <Folder Include="Functions\" />
     <Folder Include="Infrastructure\" />
     <Folder Include="Functions\Campaign\" />
-    <Folder Include="Functions\Campaign\Domain\" />
-    <Folder Include="Functions\Campaign\Functions\" />
-    <Folder Include="Functions\Campaign\IntegrationEventHandlers\" />
-    <Folder Include="Functions\Campaign\IntegrationEvents\" />
-    <Folder Include="Functions\Campaign\Commands\" />
+    <Folder Include="Functions\Order\" />
+    <Folder Include="Functions\Catalog\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Functions\VoyageMakers\Domain\Chapter.cs" />
